@@ -21,3 +21,4 @@ Built a cloud-hosted enterprise environment in Microsoft Azure to simulate real-
 ### 2. Domain Controller Setup
 * Promoted `dc01` to an Active Directory Domain Controller.
 * Installed and configured core **AD DS** and **DNS** roles.
+<img width="5468" height="3076" alt="IMG_2319" src="https://github.com/user-attachments/assets/da80f4e1-5e32-4e45-86cd-af972c714cd1" />
